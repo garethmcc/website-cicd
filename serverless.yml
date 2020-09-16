@@ -6,5 +6,5 @@ component: website
 inputs:
   src:
     src: ./src
-    hook: echo "stuff"
+    hook: echo "test"
     dist: ./dist
